@@ -20,7 +20,10 @@ python chembl_gradio.py
 
 If you use this tool in your research, please cite as:
 
-> Atasever-Arslan B. (2025). *ChEMBL ID to IC₅₀ Extractor and Viewer Tool* [Computer software]. https://github.com/belkisar/chembl_tool
+> Atasever-Arslan B. (2025). _ChEMBL ID to IC₅₀ Extractor and Viewer Tool_ (v1.0). Zenodo.**  
+[https://doi.org/10.5281/zenodo.15852333](https://doi.org/10.5281/zenodo.15852333)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15852333.svg)](https://doi.org/10.5281/zenodo.15852333)
 
 
 ## License
